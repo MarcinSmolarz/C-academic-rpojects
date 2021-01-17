@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1476274843 source:c:\users\user\desktop\studia\programowanie obiektowe\zajêcia2 12.10.16\pies\main.cpp
+	"pies.h"
+	<iostream>
+
+1476275007 c:\users\user\desktop\studia\programowanie obiektowe\zajêcia2 12.10.16\pies\pies.h
+	<iostream>
+

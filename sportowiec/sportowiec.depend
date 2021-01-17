@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1477483439 source:c:\users\user\desktop\studia\programowanie obiektowe\zajêcia4 26.10.16\sportowiec\main.cpp
+	<iostream>
+	"sportowiec.h"
+
+1477484291 c:\users\user\desktop\studia\programowanie obiektowe\zajêcia4 26.10.16\sportowiec\sportowiec.h
+	<iostream>
+
+1477484321 source:c:\users\user\desktop\studia\programowanie obiektowe\zajêcia4 26.10.16\sportowiec\sportowiec.cpp
+	"sportowiec.h"
+	<cstring>
+	<iostream>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1476880471 source:c:\users\user\desktop\studia\programowanie obiektowe\zajêcia3 19.10.16\ulamki\main.cpp
+	<iostream>
+	"ulamek.h"
+
+1476880501 c:\users\user\desktop\studia\programowanie obiektowe\zajêcia3 19.10.16\ulamki\ulamek.h
+	<iostream>
+
+1476880751 source:c:\users\user\desktop\studia\programowanie obiektowe\zajêcia3 19.10.16\ulamki\ulamek.cpp
+	"ulamek.h"
+

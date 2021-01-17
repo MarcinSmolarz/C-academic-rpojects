@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1476273244 source:c:\users\user\desktop\studia\programowanie obiektowe\zajêcia2 12.10.16\lab2\produkt.cpp
+	"produkt.h"
+
+1476273923 c:\users\user\desktop\studia\programowanie obiektowe\zajêcia2 12.10.16\lab2\produkt.h
+	<iostream>
+
+1476273619 source:c:\users\user\desktop\studia\programowanie obiektowe\zajêcia2 12.10.16\lab2\main.cpp
+	<iostream>
+	"produkt.h"
+

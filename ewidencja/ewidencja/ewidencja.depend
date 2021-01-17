@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1455781237 source:c:\users\stud\desktop\prog i strukt danych\ewidencja\ewidencja\osoby.cpp
+
+1455784808 source:c:\users\stud\desktop\prog i strukt danych\ewidencja\ewidencja\main.cpp
+	<iostream>
+	"osoby.h"
+
+1455784687 c:\users\stud\desktop\prog i strukt danych\ewidencja\ewidencja\osoby.h
+	<string>
+
+1455788408 source:c:\users\user\desktop\studia\programowanie strukturalen\ewidencja\ewidencja\main.cpp
+	<iostream>
+	"osoby.h"
+
+1455788287 c:\users\user\desktop\studia\programowanie strukturalen\ewidencja\ewidencja\osoby.h
+	<string>
+

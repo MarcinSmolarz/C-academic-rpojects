@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1466878676 source:c:\users\user\desktop\studia\programowanie strukturalen\egzamin\dziekanat\main.cpp
+	<iostream>
+	<fstream>
+	"studenci.h"
+	"studenciStudent.h"
+
+1466370543 c:\users\user\desktop\studia\programowanie strukturalen\egzamin\dziekanat\studenci.h
+
+1466373325 c:\users\user\desktop\studia\programowanie strukturalen\egzamin\dziekanat\studencistudent.h
+

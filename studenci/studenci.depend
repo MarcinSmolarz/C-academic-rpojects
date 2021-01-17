@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1446671344 source:c:\users\user\desktop\studia\programowanie obiektowe\zajêcia1 5.10.16\studenci\studenci\main.cpp
+	<iostream>
+
+1475747125 source:c:\users\user\desktop\studia\programowanie obiektowe\zajêcia1 5.10.16\studenci\studenci\student.cpp
+	"student.h"
+
+1475746757 c:\users\user\desktop\studia\programowanie obiektowe\zajêcia1 5.10.16\studenci\studenci\student.h
+	<iostream>
+

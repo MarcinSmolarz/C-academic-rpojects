@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1476345674 source:c:\users\user\desktop\studia\programowanie obiektowe\zajêcia2 12.10.16\konto\konto.cpp
+	"konto.h"
+
+1476275933 c:\users\user\desktop\studia\programowanie obiektowe\zajêcia2 12.10.16\konto\konto.h
+	<iostream>
+
+1476345764 source:c:\users\user\desktop\studia\programowanie obiektowe\zajêcia2 12.10.16\konto\main.cpp
+	<iostream>
+	"konto.h"
+

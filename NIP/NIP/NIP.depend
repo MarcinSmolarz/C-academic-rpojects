@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1466954268 source:c:\users\user\desktop\studia\programowanie strukturalen\egzamin\nip\nip\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"NIP.h"
+
+1466954245 c:\users\user\desktop\studia\programowanie strukturalen\egzamin\nip\nip\nip.h
+

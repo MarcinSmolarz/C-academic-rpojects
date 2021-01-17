@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1460015826 source:c:\users\stud\desktop\towar\towar\main.cpp
+	<iostream>
+	"towar.h"
+
+1460015869 c:\users\stud\desktop\towar\towar\towar.h
+
+1460015814 source:c:\users\stud\desktop\towar\towar\towar.cpp
+	<iostream>
+	"towar.h"
+	<cstdlib>
+
